@@ -20,8 +20,8 @@
 <a href="https://twitter.com/praveenkupadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveenkupadhi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/praveen-kumar-padhi-292161229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/praveen-kumar-padhi-292161229" height="30" width="40" /></a>
 <a href="https://codesandbox.com/https://codesandbox.io/u/praveen7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/praveen7438" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/praveen7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/praveen7438" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/praveen7438/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/praveen7438/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/praveen7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/praveen7438" height="30" width="40" /></a>
+<a href="https://leetcode.com/praveen7438/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/praveen7438/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
