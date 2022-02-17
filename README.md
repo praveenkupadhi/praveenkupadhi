@@ -42,12 +42,3 @@
   <br/>
    <a href="https://github.com/praveenkupadhi"><img alt="Praveen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praveenkupadhi&custom_title=Praveen_Kumar_Padhi's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-  
-  <h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkumarpadhi&" alt="praveenkumarpadhi" /></p>
-
