@@ -42,3 +42,9 @@
   <br/>
    <a href="https://github.com/praveenkupadhi"><img alt="Praveen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praveenkupadhi&custom_title=Praveen_Kumar_Padhi's%20Contribution%20Graph&theme=react-dark" /></a>
 </br>
+## :fire: Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dheerajkumargaur&theme=algolia" alt="Dheeraj" /></p>
+  <summary><b>:zap: Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/dheerajkumargaur"><img alt="Dheeraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dheerajkumargaur&custom_title=Dheeraj_Kumar_Gaur's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
