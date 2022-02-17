@@ -29,17 +29,16 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkupadhi&show_icons=true&locale=en&layout=compact" alt="praveenkupadhi" /></p>
 
-📈 GitHub Stats
-<p align=“left”> <img src="https://github-readme-stats.vercel.app/api?username=praveenkupadhi&show_icons=true&theme=gotham" alt=“Praveen” width = “45%” />
-<img align = “right” src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkupadhi&custom_title=Most Used Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt=“Dheeraj” width = “45%”/>
-<br/>
-<!-- <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn’t reflect experience or skill level. -->
-</p>
-<br>
-
-:fire: Streak Stats
-<p align=“center”><img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkupadhi&theme=algolia" alt=“Praveen” /></p>
-<summary><b>:zap: Recent GitHub Activity</b></summary>
-<br/>
-<a href="https://github.com/praveenkupadhi“><img alt=“Praveen’s Activity Graph” src=”https://activity-graph.herokuapp.com/graph?username=praveenkupadhi&custom_title=Praveen_Kumar_Padhi’s Contribution Graph&theme=react-dark" /></a>
-<br/>
+## &#x1f4c8; GitHub Stats
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=praveenkupadhi&show_icons=true&theme=gotham" alt="Praveen" width = "45%" />
+  <img align = "right" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenkupadhi&custom_title=Most Used  Languages&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Praveen" width = "45%"/>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+  </p>
+ <br>
+## :fire: Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkupadhi&theme=algolia" alt="Praveen" /></p>
+  <summary><b>:zap: Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/praveenkupadhi"><img alt="Praveen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praveenkupadhi&custom_title=Praveen_Kumar_Padhi's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
