@@ -36,7 +36,7 @@
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
   </p>
  <br>
-## :fire: Streak Stats
+### :fire: Streak Stats
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=praveenkupadhi&theme=algolia" alt="Praveen" /></p>
   <summary><b>:zap: Recent GitHub Activity</b></summary>
   <br/>
