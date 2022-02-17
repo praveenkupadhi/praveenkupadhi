@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Praveen Kumar Padhi</h1>
 <h3 align="center">I am a full-stack web developer with a great passion for programming. I develop websites and applications using HTML, CSS, and JavaScript.</h3>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvoxyard.com%2Fcustom&psig=AOvVaw038I1NkF6paqMTKXMfCCPZ&ust=1645166965745000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjl7duShvYCFQAAAAAdAAAAABAD" />
+<img src="https://voxyard.com/assets/img/content/coding.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenkupadhi&label=Profile%20views&color=0e75b6&style=flat" alt="praveenkupadhi" /> </p>
 
