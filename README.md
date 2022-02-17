@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **react.**
 
-- 🔭 I have worked on **Shein-Clone.**
+- 🔭 I have worked on [Shein-Clone.](https://shein-project.vercel.app/home.html)
 
 - 👨‍💻 All of my projects are available at [https://praveen-kumar-padhi-portfolio.netlify.app/](https://praveen-kumar-padhi-portfolio.netlify.app/)
 
