@@ -35,11 +35,9 @@
    <a href="https://github.com/praveenkupadhi"><img alt="Praveen's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=praveenkupadhi&custom_title=Praveen_Kumar_Padhi's%20Contribution%20Graph&theme=react-dark" /></a>
 </br>
 
-<h3 align="left">Connect with me:</h3>
+## Connect with me:
 <p align="left">
-<a href="https://twitter.com/praveenkupadhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveenkupadhi" height="30" width="40" /></a>
-<a href="linkedin.com/in/praveen-kumar-padhi-292161229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/praveen-kumar-padhi-292161229" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/praveen7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/praveen7438" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/praveen7438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/praveen7438" height="30" width="40" /></a>
-<a href="https://leetcode.com/praveen7438/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/praveen7438/" height="30" width="40" /></a>
+<a href = "linkedin.com/in/praveen-kumar-padhi-292161229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "mailto:praveen7438@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+<a href = "https://twitter.com/praveenkupadhi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
