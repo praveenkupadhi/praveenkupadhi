@@ -37,7 +37,7 @@
 
 ## Connect with me:
 <p align="left">
-<a href = "linkedin.com/in/praveen-kumar-padhi-292161229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/praveen-kumar-padhi-292161229"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "mailto:praveen7438@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
 <a href = "https://twitter.com/praveenkupadhi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
