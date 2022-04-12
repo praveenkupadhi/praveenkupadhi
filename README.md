@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://praveen-kumar-padhi-portfolio.netlify.app/](https://praveen-kumar-padhi-portfolio.netlify.app/)
 
-- 📫 How to reach me **praveen7438@gmail.com**
+- 📫 How to reach me **praveenkupadhi@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Hn19ixLT6rH13BcZ4_kYTw-5d1_LFwou/view?usp=sharing)
 
